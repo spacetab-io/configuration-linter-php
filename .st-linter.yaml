@@ -1,0 +1,5 @@
+parameters:
+  stage: "production"
+  configurationsPath: '/home/phex-laptop/projects/linter/configuration-linter-php/vendor/spacetab-io/configuration/tests/configuration'
+  rules:
+    - CamelCaseStyleRule

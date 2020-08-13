@@ -1,0 +1,9 @@
+{
+    "autoload": {"psr-4": {"Spacetab\\Linter\\": "src"}},
+    "require": {
+        "spacetab-io/configuration": "^3.1",
+        "symfony/console": "^5.1",
+        "jawira/case-converter": "^3.4",
+        "ext-json": "*"
+    }
+}
